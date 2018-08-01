@@ -1,5 +1,5 @@
-##Webpage to PDF Saver
-Save webpages to pdf.
+##Permanent Bookmark
+Download and save webpages to pdf.
 
 
 ###Usage:
